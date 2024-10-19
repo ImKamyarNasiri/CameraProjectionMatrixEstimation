@@ -1,0 +1,2 @@
+- Implementation of recovering the projective camera model (Projection Matrix P)
+- Recovering the extrinsic parameters given the estimation of projection matrix P.
